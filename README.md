@@ -11,7 +11,6 @@ This is a code repository accompanying the MRM paper "Improved Image Reconstruct
 |                       | Iteration: Multiple iterations |
 |                       | Role in Model: Primary source of learning |
 |                       | Distribution: Ideally representative |
-
 | **Validation Dataset**| Purpose: To tune model parameters |
 |                       | Size: Smaller portion       |
 |                       | Data Leakage Risks: Moderate, if not carefully managed |
@@ -20,7 +19,6 @@ This is a code repository accompanying the MRM paper "Improved Image Reconstruct
 |                       | Iteration: Limited iterations |
 |                       | Role in Model: Model tuning and selection |
 |                       | Distribution: Should mimic training distribution |
-
 | **Test Dataset**      | Purpose: To evaluate model performance |
 |                       | Size: Medium to small portion |
 |                       | Data Leakage Risks: Low, should be independent |
