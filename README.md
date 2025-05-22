@@ -1,9 +1,9 @@
 # TCN Gradient Trajectory Error Prediction
 This is a code repository accompanying the MRM paper "Improved Image Reconstruction and Diffusion Parameter Estimation Using a Temporal Convolutional Network Model of Gradient Trajectory Errors"
 
-| Dataset               | Waveform file             | Waveform Description      |   
-|-----------------------|---------------------------|----------------------------
-| **Training Dataset**  | train1.txt                |
+| Dataset               | Waveform file             | Waveform Description      |   Data Samples |
+|-----------------------|---------------------------|---------------------------------------------
+| **Training Dataset**  | train1.txt                |                            
 |                       | train2.txt                |
 |                       | train3.txt                |
 |                       | train4.txt                |
