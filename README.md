@@ -3,9 +3,9 @@ This is a code repository accompanying the MRM paper "Improved Image Reconstruct
 
 | Dataset               | Waveform file             | Waveform Description      |   Data Samples |
 |-----------------------|---------------------------|---------------------------------------------
-| **Training Dataset**  | train1.txt                |                            
-|                       | train2.txt                |
-|                       | train3.txt                |
+| **Training Dataset**  | train1.txt                | Chirp                     |      1260      |
+|                       | train2.txt                | Chirp                     |      1260      |
+|                       | train3.txt                | Chirp                     |      1260      |
 |                       | train4.txt                |
 |                       | train5.txt                |
 |                       | train6.txt                |
